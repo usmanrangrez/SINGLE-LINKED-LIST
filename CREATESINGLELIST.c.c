@@ -48,4 +48,6 @@ int main()
         createL();
     }
     display();
+    
+    return 0;
 }
